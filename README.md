@@ -1,2 +1,2 @@
 # digital-logic
-# This is the project of the CS207
+This is the project of the CS207
